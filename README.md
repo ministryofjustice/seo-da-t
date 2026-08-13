@@ -25,7 +25,7 @@ A short live coding exercise will follow your presentation.
 ### Important Hints:
 
 1. You may wish to clone this GitHub repository to your local machine for easier access to the data files.
-2. JSON file readers are available in R, Python, and other languages.
+2. JSON file readers are available in R packages
 3. Please retain all (final) code used to complete the exercises
 4. Create your script locally — you’ll share your screen later. There is no need to open a pull request or make any changes to the test repository.
 5. It may be helpful to inspect the raw data files to understand their structure.
