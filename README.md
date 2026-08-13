@@ -1,6 +1,8 @@
-# Data Analyst Technical Test
+# Data Analyst Technical Task
 
 ### Task Introduction
+
+**Please complete this task using the R programming language**
 
 You are a data analyst working on a pilot programme to assess the strategic and operational value of police enforcement data for Derbyshire Police.
 
@@ -10,7 +12,7 @@ Derbyshire Police has supplied some sample patrol data. You will need to combine
 
 We anticipate this pilot will expand to include more police forces and broader timeframes. Your code should therefore be written to support easy extension and reuse.
 
-You will complete **four tasks** over the next **45 minutes**. You are free to write and structure your code as you see fit.
+You will complete **four tasks** over the next **60 minutes**. You are free to write and structure your code as you see fit.
 
 After completing tasks 1–4, you will be required to present your solution and code, explaining:
 
